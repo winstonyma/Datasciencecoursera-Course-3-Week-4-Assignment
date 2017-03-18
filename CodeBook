@@ -1,0 +1,32 @@
+# Code Book
+
+## List of Sections:
+### Download data
+### Merge data
+### Extract measurements
+### Merge manipulated data
+### Summarize and set in order
+### Write second tidy data set
+
+## Detailed Contents
+### Download and unzip data
+#### download data
+#### Unzip dataSet to /data directory
+
+### merge training dataset with test dataset
+#### read datasets
+##### read train dataset
+##### read test dataset
+##### read feavtures and activity labels
+#### assign column names
+#### merge train dataset and test datasets
+
+### extract measurements of the mean and the std for each measurement
+#### set column names
+#### vector for pattern matching and replacement             
+#### subsetting the data
+#### merge manipulated data
+
+### summarize and set in order the mean of each variable for each activty and each subject
+
+### write second tidy data set
